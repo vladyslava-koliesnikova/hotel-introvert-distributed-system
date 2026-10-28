@@ -1,6 +1,6 @@
 # Hotel Introvert — Distributed Hotel Simulation
 
-A university project developed as part of the **Concurrent and Distributed Programming** course.
+A university project developed as part of the **Concurrent Programming** course.
 
 The project simulates the operation of a small hotel using asynchronous messaging and concurrent event generators.
 
